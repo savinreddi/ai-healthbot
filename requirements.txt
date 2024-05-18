@@ -1,0 +1,4 @@
+scikit-learn
+pandas
+pyttsx3
+// just install this requirements before running the file
